@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "heloo",
-itrotitle:'Chu Văn Đạt ',
+introTitle: 'Chu Văn Đạt',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
